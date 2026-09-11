@@ -7,3 +7,7 @@
 學校 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 學生 | 邱瀚緯
 學號 | 40
+
+## 作業列表
+* [作業 1：類似 curl 的 HTTP 客戶端 (mycurl)](./hw1)
+
